@@ -4,10 +4,7 @@
 
 A simple, AI-powered Chrome extension that helps you take notes and summarize selected text on any webpage.
 
-> 💡 Built with HTML, CSS, JavaScript, and a backend API (
-
- Spring Boot) at `localhost:8080/api/research/process`.
-
+> 💡 Built with HTML, CSS, JavaScript and  Spring Boot 
 ---
 
 ## 🔧 Features
