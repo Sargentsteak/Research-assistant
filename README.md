@@ -22,6 +22,8 @@ A simple, AI-powered Chrome extension that helps you take notes and summarize se
 ## 📸 Preview
 
 
+https://github.com/user-attachments/assets/7e6384be-983c-4d34-9886-bb6b59645f35
+
 
 
 ---
@@ -48,17 +50,13 @@ research-assistant-extension/
 5. The extension icon should now appear in the toolbar.
 
 🧪 Usage
-Click on the extension icon to open the Side Panel
 
-Select any text on the current webpage
-
-Click "Summarize"
-
-The summarized content will be shown in the Results area
-
-Add any notes and hit "Save Notes" to persist them locally
-
-Notes are stored using chrome.storage.local and persist across sessions.
+1. Click on the extension icon to open the Side Panel
+2. Select any text on the current webpage
+3. Click "Summarize"
+4. The summarized content will be shown in the Results area
+5. Add any notes and hit "Save Notes" to persist them locally
+6. Notes are stored using chrome.storage.local and persist across sessions.
 
 --------------------------------------------------------------------------------------------------
 
